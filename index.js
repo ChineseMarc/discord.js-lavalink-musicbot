@@ -17,6 +17,7 @@ const Discord = require('discord.js');
 const PACKAGE = require('./package.json');
 const Lavalink = require('discord.js-lavalink');
 const { PlayerManager } = Lavalink;
+const { URLSearchParams } = require("url");
 const axios = require('axios');
 try {
 	if(!Discord.RichEmbed && Discord.version.split('.')[0] == '12')
