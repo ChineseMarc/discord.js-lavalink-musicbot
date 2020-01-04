@@ -1,3 +1,4 @@
+//_token = NjYzMTMzMTQ3MDgwNDI1NDc1.XhEE7A.0hNlBiDBfgmpoyz9Ddbl7wySHfU
 /*
 	This is the Lavalink version of nexu-dev and DarkoPendragon's discord.js-musicbot-addon!
 	Get Lavalink here: https://ci.fredboat.com/viewLog.html?buildId=lastSuccessful&buildTypeId=Lavalink_Build&tab=artifacts&guest=1
